@@ -1,9 +1,11 @@
 ### Hi there I am TheMainJoe 👋
 
-[![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)]
+[![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)](https://github.com/themainjoe/github-readme-stats)
 
 ### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themainjoe)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themainjoe)](https://github.com/themainjoe/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themainjoe&repo=github-readme-stats)](https://github.com/themainjoe/github-readme-stats)
 
 
 ### Blog posts
