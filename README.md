@@ -1,6 +1,8 @@
 ### Hi there I am TheMainJoe 👋
 
 [![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)](https://github.com/themainjoe/github-readme-stats)
+<br />
+---
 
 ### Languages
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -21,9 +23,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
+<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themainjoe)](https://github.com/themainjoe/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=themainjoe&repo=github-readme-stats)](https://github.com/themainjoe/github-readme-stats)
+<br />
+---
 
 ### Let us Connect
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,15 +34,28 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br />
 ---
 
-### Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Interests
+<br />
+---
 
+### Latest YouTube Videos
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+---
+
+### Other Interests
+- Gaming
+- Golfing
+- Motorsports
+- Biking
 <!--
 **TheMainJoe/TheMainJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
