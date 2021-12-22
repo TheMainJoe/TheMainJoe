@@ -55,8 +55,8 @@
 ---
 
 ### Latest YouTube Videos
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 <br /><br />
 ---
