@@ -1,7 +1,10 @@
 ### Hi there I am TheMainJoe 👋
 
-<!--[![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)](https://github.com/themainjoe/github-readme-stats) -->
-<img align="left" alt="TheMainJoe's GitHub Stats" src="https://github-readme-stats.themainjoe.vercel.app/api?username=TheMainJoe&show_icons=true&hide_border=true" />
+[![Website](https://img.shields.io/website?label=jmasango.co.za&style=for-the-badge&url=https%3A%2F%2Fjmasango.co.za)](https://jmasango.co.za)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheMainJoe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheMainJoe&screen_name=TheMainJoe)
+
+
+[![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)](https://github.com/themainjoe/github-readme-stats)
 <br /><br />
 ---
 
