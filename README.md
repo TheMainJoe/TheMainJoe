@@ -1,7 +1,7 @@
 ### Hi there I am TheMainJoe 👋
 
 [![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)](https://github.com/themainjoe/github-readme-stats)
-<img align="left" alt="TheMainJoe's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=TheMainJoe&show_icons=true&hide_border=true" />
+<img align="left" alt="TheMainJoe's GitHub Stats" src="https://github-readme-stats.themainjoe.vercel.app/api?username=TheMainJoe&show_icons=true&hide_border=true" />
 <br /><br />
 ---
 
