@@ -56,6 +56,11 @@
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Beginner Golfer Plays 9 Holes | South African Golfer](https://www.youtube.com/watch?v=lNGs0-fcRTg)
+- [Trailer](https://www.youtube.com/watch?v=XVWtr0OJajE)
+- [Running E2 | TheMainJoe Runs South Africa](https://www.youtube.com/watch?v=bZLObSywRvU)
+- [Nature Reserve Walk | South Africa Pretoria](https://www.youtube.com/watch?v=8TBhs-0Fk-E)
+- [Running E1 | South Africa Run](https://www.youtube.com/watch?v=K2J_Lfya_xk)
 <!-- YOUTUBE:END -->
 
 <br /><br />
