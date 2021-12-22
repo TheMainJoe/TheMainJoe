@@ -1,6 +1,6 @@
 ### Hi there I am TheMainJoe 👋
 
-[TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)
+[![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br /><br />
 ---
 
