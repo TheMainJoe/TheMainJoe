@@ -1,5 +1,7 @@
 ### Hi there I am TheMainJoe 👋
 
+[![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe)](https://github.com/themainjoe/github-readme-stats)
+
 ### Languages
 
 ### Blog posts
