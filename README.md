@@ -3,8 +3,6 @@
 [![Website](https://img.shields.io/website?label=jmasango.co.za&style=for-the-badge&url=https%3A%2F%2Fjmasango.co.za)](https://jmasango.co.za)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TheMainJoe?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTheMainJoe&screen_name=TheMainJoe)
 
-<br /><br />
-
 [![TheMainJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=themainjoe&cout_private=true&show_icons=true&theme=dark)](https://github.com/themainjoe/github-readme-stats)
 <br /><br />
 ---
@@ -32,8 +30,11 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
+<img align="left" alt="Powershell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />
 
 <br /><br />
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themainjoe)](https://github.com/themainjoe/github-readme-stats)
 <br /><br />
 ---
@@ -44,21 +45,21 @@
 [<img align="left" alt="TheMainJoe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TheMainJoe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TheMainJoe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br /><br />
+<br />
 ---
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br /><br />
+<br />
 ---
 
 ### Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-<br /><br />
+<br />
 ---
 
 ### Other Interests
