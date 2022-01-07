@@ -50,6 +50,7 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Web Design](https://properinfo.co.za/web-design/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
