@@ -53,7 +53,7 @@
 - [Web Design](https://properinfo.co.za/web-design/)
 <!-- BLOG-POST-LIST:END -->
 
-<br />
+<br /><br />
 ---
 
 ### Latest YouTube Videos
@@ -65,7 +65,7 @@
 - [Running E1 | South Africa Run](https://www.youtube.com/watch?v=K2J_Lfya_xk)
 <!-- YOUTUBE:END -->
 
-<br />
+<br /><br />
 ---
 
 ### Other Interests
