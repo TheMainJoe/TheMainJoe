@@ -40,42 +40,13 @@
 ---
 
 ### Let us Connect
-[<img align="left" alt="jmasango.co.za" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="TheMainJoe | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="jmasango.co.za" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
+[<img align="left" alt="TheMainJoe | YouTube" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/youtube/youtube.png" />][youtube]
 [<img align="left" alt="TheMainJoe | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="TheMainJoe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="TheMainJoe | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br /><br />
 ---
-
-### Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Web Design](https://properinfo.co.za/web-design/)
-<!-- BLOG-POST-LIST:END -->
-
-<br /><br />
----
-
-### Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Beginner Golfer Plays 9 Holes | South African Golfer](https://www.youtube.com/watch?v=lNGs0-fcRTg)
-- [Trailer](https://www.youtube.com/watch?v=XVWtr0OJajE)
-- [Running E2 | TheMainJoe Runs South Africa](https://www.youtube.com/watch?v=bZLObSywRvU)
-- [Nature Reserve Walk | South Africa Pretoria](https://www.youtube.com/watch?v=8TBhs-0Fk-E)
-- [Running E1 | South Africa Run](https://www.youtube.com/watch?v=K2J_Lfya_xk)
-<!-- YOUTUBE:END -->
-
-<br /><br />
----
-
-### Other Interests
-- Gaming
-- Golfing
-- Motorsports
-- Motorcycling
-- Running
-- Property
-- Investments
 
 <!--
 **TheMainJoe/TheMainJoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
