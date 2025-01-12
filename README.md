@@ -21,9 +21,7 @@
 ## Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themainjoe&show_icons=true&locale=en&layout=compact" alt="themainjoe" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themainjoe&show_icons=true&locale=en" alt="themainjoe" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=themainjoe&" alt="themainjoe" /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TheMainJoe&theme=react&count_private=true)](https://git.io/streak-stats)
